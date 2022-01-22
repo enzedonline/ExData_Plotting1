@@ -1,4 +1,4 @@
-## Aditional Information
+## Additional Information
 
 To run the scripts, you will need to have downloaded and unzipped the data file to `./data/raw/household_power_consumption.txt`
 
